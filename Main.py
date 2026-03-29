@@ -1,5 +1,7 @@
 def main():
-    #To do
+    def some_function():
+        print("Hello, World!")
+
 
 if __name__ == "__main__":
     main()
